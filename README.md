@@ -7,6 +7,7 @@ The objective for this project was to refactor the existing webpage to bring the
 ## Mockups
 See mockup screenshot for desired UI design:
 ../assets/images/01-html-css-git-homework-demo.png
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/18122845/185471485-10639814-8273-4d34-99c8-9945f0a209ed.png)
 
 ## Usage
 
@@ -20,6 +21,7 @@ Usage guidance is outlined in the LICENSE FILE ../LICENSE
 ## Tests
 
 The following test case has passed and all Acceptance Criteria were met. 
+
 
 Test Case #1:
 GIVEN a webpage meets accessibility standards
